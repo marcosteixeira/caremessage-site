@@ -1,0 +1,43 @@
+//**
+// Main Layout Styles
+//**
+
+// Hero images
+.hero {
+  position: relative;
+  margin-bottom: 8.5em;
+}
+
+.hero-text {
+  position: absolute;
+  top: 9.5rem;
+  left: 10rem;
+  width: 33rem; // 528/1440
+  color: $white;
+
+  h2 {
+    margin-bottom: 1rem;
+    font-family: $font-stack;
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.45;
+    text-transform: uppercase;
+  }
+
+  h3 {
+    font-size: 1.3rem;
+    font-weight: 200;
+    line-height: 1.8;
+  }
+}
+// Responsive styles if needed
+// @include responsive($big-break) {
+// }
+// @include responsive($small-break) {
+// }
+
+// Mobile first styles if needed
+// @include mobilefirst($big-break) {
+// }
+// @include mobilefirst($small-break) {
+// }

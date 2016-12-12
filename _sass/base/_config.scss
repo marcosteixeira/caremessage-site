@@ -1,0 +1,49 @@
+//**
+// Project Settings
+//**
+
+// Consistent settings
+$br: 3px; // Border-radius
+$btn-br: 3px; // Button border-radius
+$font-size: 100%; // Global default font size
+$padding: 40px; // Padding and margins
+$line-height: 44px; // Consistent height for buttons, inputs etc.
+$font-stack: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+$header-font-stack: "proxima-nova", "Open Sans", "Gill Sans MT", "Gill Sans", Corbel, Arial, sans-serif;
+
+// Responsive breakpoints
+$small-break: 480px;
+$big-break: 780px;
+
+// Colors
+$turquoise: #24d0b3;
+$light-turquoise: #c3f4ed;
+$green: #2ecc40;
+$blue:  #0074d9;
+$steel-blue: #8c9da6;
+// Warm
+$yellow:  #ffdc00;
+$orange:  #ff851b;
+$red:     #ff4136;
+// Gray Scale
+$white:  #fff;
+$silver: #ddd;
+$grey:   #aaa;
+$dark-grey: #696969;
+$black:  #111;
+
+// Project color variables
+$primary-color: #1271db;
+$secondary-color: #233e5b;
+$tertiary-color: #aaa;
+
+// Colors for forms, etc
+$danger-color: $red;
+$success-color: $green;
+$info-color: $blue;
+$warning-color: $orange;
+$subtle-color: $grey;
+
+// Font colors
+$font-color: $dark-grey;
+$font-subtle-color: $steel-blue;

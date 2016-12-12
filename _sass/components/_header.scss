@@ -1,0 +1,51 @@
+//**
+// Header + Navigation
+//**
+
+header {
+  margin: 30px 0;
+
+  .cm-logo {
+    width: 175px;
+    float: left;
+  }
+}
+
+nav {
+  float: right;
+
+  ul {
+    margin: 0;
+    list-style: none;
+  }
+
+  li {
+    display: inline-block;
+  }
+
+  a {
+    padding: 7px 20px;
+    border-radius: $br;
+    text-decoration: none;
+    font-size: 0.95rem;
+    font-weight: 500;
+
+    &:link, &:visited {
+      color: $font-color;
+    }
+
+    &:hover {
+      background: $light-turquoise;
+    }
+  }
+}
+
+.nav-button, .nav-button:link, .nav-button:visited {
+  color: $white;
+  background: $turquoise;
+
+  &:hover {
+    color: $font-color;
+    background: $light-turquoise;
+  }
+}
