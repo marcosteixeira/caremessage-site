@@ -63,12 +63,18 @@
 	@media screen and (min-width: 0px) {
 
         .row {
-            margin-left:-30px;
+            margin-top: 9.5rem;
+
+            @include clearfix;
         }
 
         .col {
             border-left-width:30px;
             padding:0 0px;
+
+            &:first-child {
+              border-left-width: 0;
+            }
         }
 
         /* --- Gridpak variables ---*/

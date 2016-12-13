@@ -30,6 +30,16 @@
     line-height: 1.8;
   }
 }
+
+// General layout
+.left-pad {
+  padding-left: 1.5rem;
+}
+
+.left-pad-extra {
+  padding-left: 3rem;
+}
+
 // Responsive styles if needed
 // @include responsive($big-break) {
 // }

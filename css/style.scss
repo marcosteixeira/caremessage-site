@@ -1,11 +1,8 @@
 ---
 ---
 
-// Reset default browser styles using Normalize
+// Normalize default browser values
 @import "normalize/normalize";
-
-// Import fonts from Google
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700|Lato:400,700);
 
 // Set variables and reusable mixins
 @import "base/config";
@@ -18,6 +15,7 @@
 // Import reusable modules
 @import "components/media";
 @import "components/buttons";
+@import "components/cards";
 @import "components/tables";
 @import "components/forms";
 @import "components/alerts";

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="354px" viewBox="0 0 1440 354" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Background</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="Home" transform="translate(0.000000, -3380.000000)">
+            <g id="Footer" transform="translate(-11.000000, 3380.000000)">
+                <g id="Background">
+                    <path d="M2.11208549,71.7803459 C2.11208549,71.7803459 182.986036,-11.2419095 277.245927,1.28790309 C371.505818,13.8177157 806.489575,110.741423 854.658313,118.601131 C902.827051,126.46084 1155.4157,179.36147 1231.48972,167.50659 C1307.56374,155.651711 1460,111.046231 1460,111.046231 L1460.11209,353.12036 L945.775807,353.12036 L2.11208549,349 L2.11208549,71.7803459 Z" id="Path-2" fill-opacity="0.5" fill="#F5FAFC" style="mix-blend-mode: multiply;"></path>
+                    <path d="M3.48146889,49.1544014 C3.48146889,49.1544014 165.037632,112.974189 313.360212,92.9922753 C461.682792,73.0103614 605.059285,37.7570213 731.084458,78.914876 C731.084458,78.914876 741.11669,87.1592923 784.967192,71.2134701 C828.817693,55.2676478 931.925196,19.8084832 1054.54893,34.4814423 C1177.17267,49.1544014 1383.16358,105.75594 1394.86452,105.75594 C1406.56546,105.75594 1460,121.100363 1460,121.100363 L1460,351 L0,351 L3.03327979,60.0496428" id="Path-3" fill="#F7FAFC" style="mix-blend-mode: multiply;"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

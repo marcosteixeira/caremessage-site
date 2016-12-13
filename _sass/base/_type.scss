@@ -2,11 +2,17 @@
 // Typography
 //**
 
+$font-size: 0.97rem; // Global default font size
+$line-height: 2; // Consistent height for buttons, inputs etc.
+$font-stack: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+$header-font-stack: "proxima-nova", "Open Sans", "Gill Sans MT", "Gill Sans", Corbel, Arial, sans-serif;
+
 // Override TypeKit's generated selectors by using ones with greater specificity
 html, html body, html a, html div, html form, html input, html li , html p, html span, html ul {
   font-family: $font-stack;
   font-size: $font-size;
   color: $font-color;
+  line-height: $line-height;
 }
 
 blockquote {
@@ -64,6 +70,7 @@ h5 {
 
 p {
   margin: 0 0 $padding/2;
+  text-align: justify;
 }
 
 pre {

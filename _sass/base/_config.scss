@@ -5,11 +5,7 @@
 // Consistent settings
 $br: 3px; // Border-radius
 $btn-br: 3px; // Button border-radius
-$font-size: 100%; // Global default font size
 $padding: 40px; // Padding and margins
-$line-height: 44px; // Consistent height for buttons, inputs etc.
-$font-stack: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-$header-font-stack: "proxima-nova", "Open Sans", "Gill Sans MT", "Gill Sans", Corbel, Arial, sans-serif;
 
 // Responsive breakpoints
 $small-break: 480px;
@@ -28,8 +24,9 @@ $red:     #ff4136;
 // Gray Scale
 $white:  #fff;
 $silver: #ddd;
-$grey:   #aaa;
-$dark-grey: #696969;
+$light-gray: #e6e6e6;
+$gray:   #aaa;
+$dark-gray: #696969;
 $black:  #111;
 
 // Project color variables
@@ -42,8 +39,8 @@ $danger-color: $red;
 $success-color: $green;
 $info-color: $blue;
 $warning-color: $orange;
-$subtle-color: $grey;
+$subtle-color: $gray;
 
 // Font colors
-$font-color: $dark-grey;
+$font-color: $dark-gray;
 $font-subtle-color: $steel-blue;

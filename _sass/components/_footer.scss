@@ -1,7 +1,9 @@
 // Footer
 footer {
-  margin-top: 100px;
+  margin-top: 3rem;
+  padding-top: 7rem;
   font-size: 0.8125rem; // 13px / 16px
+  background: no-repeat center url('/images/footer-background.svg');
 
   h3 {
     margin-bottom: 20px;
@@ -12,6 +14,7 @@ footer {
   }
 
   p {
+    text-align: left;
     color: $font-subtle-color;
   }
 
