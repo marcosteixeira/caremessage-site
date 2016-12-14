@@ -21,13 +21,13 @@
     font-size: 3.4rem;
     font-weight: bold;
     line-height: 1.4;
-    text-transform: uppercase;
   }
 
   h3 {
     font-size: 1.3rem;
     font-weight: 200;
     line-height: 1.8;
+    text-transform: inherit;
   }
 
   &.hero-text-large {
@@ -72,6 +72,13 @@
 
 .left-pad-extra {
   padding-left: 3rem;
+}
+
+.embed-container {
+  iframe {
+    display: block;
+    margin: 0 auto;
+  }
 }
 
 // Responsive styles if needed

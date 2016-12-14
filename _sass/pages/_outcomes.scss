@@ -63,6 +63,13 @@
   }
 }
 
+.row-outcomes-satisfaction {
+  margin-top: 5.5rem;
+  padding: 5rem 0;
+  background: no-repeat center
+    url(/images/outcomes/satisfaction-background.svg);
+}
+
 .outcomes-card-list {
   padding: 0;
 
@@ -74,12 +81,22 @@
     text-align: center;
 
     .card {
-      padding: 2rem;
+      height: 22.5rem;
+      padding: 2.5rem 1.5rem 1.5rem 1.5rem;
+      background: $white;
+    }
+
+    .outcomes-card-image-container {
+      height: 8rem;
     }
 
     h3 {
+      margin: 0;
+      font-family: $font-stack;
       font-size: 3rem;
       font-weight: bold;
+      line-height: 1.5;
+      color: $steel-blue;
     }
 
     p {

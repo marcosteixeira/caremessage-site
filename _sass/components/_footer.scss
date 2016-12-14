@@ -1,7 +1,7 @@
 // Footer
 footer {
-  margin-top: 3rem;
-  padding-top: 7rem;
+  margin-top: 5rem;
+  padding: 9.5rem 0 1.5rem 0;
   font-size: 0.8125rem; // 13px / 16px
   background: no-repeat center url('/images/footer-background.svg');
 
@@ -24,7 +24,8 @@ footer {
     list-style: none;
 
     a {
-      line-height: 2;
+      font-size: 0.85rem;
+      line-height: 1.9;
       text-decoration: none;
       color: $font-subtle-color;
     }
@@ -56,7 +57,7 @@ footer {
   }
 
   p {
-    margin-bottom: 45px;
+    margin-bottom: 30px;
   }
 }
 
