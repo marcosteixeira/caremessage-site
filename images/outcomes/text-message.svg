@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="185px" height="135px" viewBox="0 0 185 135" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#AAF9F0" offset="0%"></stop>
+            <stop stop-color="#71EFDD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#B8EFFF" offset="0%"></stop>
+            <stop stop-color="#82DAFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M16.320661,1.77635684e-14 C7.37951874,1.77635684e-14 -7.10542736e-15,7.24934089 -7.10542736e-15,16.3461256 L-7.10542736e-15,65.2428104 C-7.10542736e-15,74.1979032 7.23804762,81.5889359 16.320661,81.5889359 L21.5718346,81.5889359 C21.5718346,81.5889359 30.2557568,91.9507411 33.1823572,91.9718078 C36.1089575,91.9928745 45.1305433,81.5889359 45.1305433,81.5889359 L88.5579919,81.5889359 C97.4991341,81.5889359 104.878653,74.339595 104.878653,65.2428104 L104.878653,16.3461256 C105.020961,7.24934089 97.6410238,1.77635684e-14 88.6998816,1.77635684e-14 L16.320661,1.77635684e-14 Z" id="path-3"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outcomes" transform="translate(-324.000000, -1137.000000)">
+            <g id="Section-01" transform="translate(149.000000, 856.000000)">
+                <g id="Icon" transform="translate(128.000000, 259.000000)">
+                    <g transform="translate(135.000000, 82.000000) rotate(-360.000000) translate(-135.000000, -82.000000) translate(47.000000, 22.000000)">
+                        <path d="M16.320661,2.13162821e-14 C7.37951874,2.13162821e-14 -1.42108547e-14,7.24934089 -1.42108547e-14,16.3461256 L-1.42108547e-14,65.2428104 C-1.42108547e-14,74.1979032 7.23804762,81.5889359 16.320661,81.5889359 L21.5718346,81.5889359 C21.5718346,81.5889359 30.7963023,91.3279722 33.0508615,91.4401663 C35.3054207,91.5523605 45.1305433,81.5889359 45.1305433,81.5889359 L88.5579919,81.5889359 C97.4991341,81.5889359 104.878653,74.339595 104.878653,65.2428104 L104.878653,16.3461256 C105.020961,7.24892168 97.6410238,2.13162821e-14 88.6998816,2.13162821e-14 L16.320661,2.13162821e-14 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                        <g id="Group-25" transform="translate(70.042640, 27.525965)">
+                            <g id="Shape">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                            <g id="Group" transform="translate(22.716532, 36.068505)" fill="#FFFFFF">
+                                <ellipse id="Oval" cx="7.96144419" cy="8.22192369" rx="7.8984131" ry="7.91073671"></ellipse>
+                                <ellipse id="Oval" cx="29.5660379" cy="8.22192369" rx="7.8984131" ry="7.91073671"></ellipse>
+                                <ellipse id="Oval" cx="51.170289" cy="8.22192369" rx="7.8984131" ry="7.91073671"></ellipse>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="459px" height="256px" viewBox="0 0 459 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="100%" y1="0%" x2="-5.54917279%" y2="84.6525493%" id="linearGradient-2">
+            <stop stop-color="#FB5579" offset="0%"></stop>
+            <stop stop-color="#FE3962" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outcomes" transform="translate(-183.000000, -2249.000000)">
+            <g id="Section-03" transform="translate(150.000000, 2013.000000)">
+                <g id="Icon" transform="translate(33.000000, 236.000000)">
+                    <path d="M107.115314,70.8911403 L41.8194145,70.8911403 C31.0871091,70.8911403 22.3868565,62.1915143 22.3868565,51.45471 C22.3868565,40.720266 31.085618,32.0182798 41.8194145,32.0182798 L164.604581,32.0182798 C188.615578,13.5326799 219.577428,2.40086222 253.372769,2.40086222 C254.93,2.40086222 256.481215,2.42449738 258.026011,2.47139808 C258.575757,2.42469278 259.132043,2.40086222 259.693916,2.40086222 L349.936178,2.40086222 C360.669215,2.40086222 369.370062,11.1004883 369.370062,21.8372925 C369.370062,25.570242 368.318312,29.0574001 366.494772,32.0182798 L423.73576,32.0182798 C434.468066,32.0182798 443.168318,40.7179058 443.168318,51.45471 C443.168318,62.1891541 434.469557,70.8911403 423.73576,70.8911403 L376.115303,70.8911403 C385.984645,88.3476309 391.560848,108.176502 391.560848,129.200431 C391.560848,138.409644 390.490917,147.389556 388.458893,156.041216 L438.68846,156.041216 C449.427497,156.041216 458.133207,164.740842 458.133207,175.477646 C458.133207,186.21209 449.429377,194.914076 438.68846,194.914076 L371.579085,194.914076 C347.347662,231.534883 303.473891,256 253.372769,256 C214.260918,256 178.944184,241.090292 153.80481,217.127139 L58.4110686,217.127139 C48.8676414,217.127139 41.131165,209.394139 41.131165,199.850313 C41.131165,190.308585 48.8728232,182.573486 58.4110686,182.573486 L91.3061518,182.573486 L148.516173,182.573486 C158.060586,182.573486 165.790508,174.838387 165.790508,165.296659 C165.790508,157.34351 160.41974,150.647867 153.108485,148.636861 L104.359326,148.636861 C93.6257832,148.636861 84.9245272,139.937235 84.9245272,129.200431 C84.9245272,118.465987 93.6260634,109.764001 104.359326,109.764001 L107.115314,109.764001 L107.115314,70.8911403 Z M403.112829,117.363709 C403.112829,106.629265 411.817829,97.9272787 422.547645,97.9272787 L424.024898,97.9272787 C434.758451,97.9272787 443.459714,106.626905 443.459714,117.363709 C443.459714,128.098153 434.754714,136.800139 424.024898,136.800139 L422.547645,136.800139 C411.814093,136.800139 403.112829,128.100513 403.112829,117.363709 Z M0,129.040241 C0,119.662347 7.60078898,112.060063 16.9791639,112.060063 L23.3677204,112.060063 C32.7450537,112.060063 40.3468843,119.660285 40.3468843,129.040241 C40.3468843,138.418134 32.7460953,146.020419 23.3677204,146.020419 L16.9791639,146.020419 C7.60183063,146.020419 0,138.420196 0,129.040241 Z M119.219379,11.6563052 C119.219379,5.52233719 124.186916,0.549773627 130.324419,0.549773627 L148.461223,0.549773627 C154.594368,0.549773627 159.566263,5.5209885 159.566263,11.6563052 C159.566263,17.7902732 154.598726,22.7628368 148.461223,22.7628368 L130.324419,22.7628368 C124.191274,22.7628368 119.219379,17.7916219 119.219379,11.6563052 Z" id="Background" fill="#F6E3C7" opacity="0.1"></path>
+                    <g transform="translate(75.000000, 46.000000)">
+                        <g id="Group-9-Copy" filter="url(#filter-1)" transform="translate(115.000000, 0.000000)">
+                            <rect id="Rectangle-11" fill="#FFFFFF" x="0" y="5.7037037" width="129" height="148.296296" rx="5"></rect>
+                            <rect id="Rectangle-11" fill="url(#linearGradient-2)" x="0" y="5.7037037" width="129" height="36.1234568" rx="5"></rect>
+                            <text id="10" font-family="ProximaNova-Regular, Proxima Nova" font-size="55" font-weight="normal" fill="#555555">
+                                <tspan x="38.3475" y="107.938272">10</tspan>
+                            </text>
+                            <text id="Nov" font-family="ProximaNova-Regular, Proxima Nova" font-size="20" font-weight="normal" fill="#B3B3B3">
+                                <tspan x="47.2742647" y="132.123457">Nov</tspan>
+                            </text>
+                            <ellipse id="Oval-3" fill="#FFFFFF" cx="105.761029" cy="24.2407407" rx="5.21691176" ry="5.22839506"></ellipse>
+                            <ellipse id="Oval-3-Copy" fill="#FFFFFF" cx="18.4963235" cy="24.2407407" rx="5.21691176" ry="5.22839506"></ellipse>
+                            <rect id="Rectangle-12" fill="#C4C4C4" x="16.125" y="0" width="3.79411765" height="24.7160494" rx="1.89705882"></rect>
+                            <rect id="Rectangle-12" fill="#C4C4C4" x="103.389706" y="0" width="3.79411765" height="24.7160494" rx="1.89705882"></rect>
+                        </g>
+                        <g id="Group-9-Copy-2" filter="url(#filter-3)" transform="translate(263.000000, 27.000000)">
+                            <rect id="Rectangle-11" fill="#FFFFFF" x="0" y="3.8" width="96" height="110.2" rx="5"></rect>
+                            <rect id="Rectangle-11" fill="url(#linearGradient-2)" x="0" y="3.8" width="96" height="26.6" rx="5"></rect>
+                            <text id="11" font-family="ProximaNova-Regular, Proxima Nova" font-size="45" font-weight="normal" fill="#555555">
+                                <tspan x="31.3192574" y="82.35">11</tspan>
+                            </text>
+                            <text id="Nov" font-family="ProximaNova-Regular, Proxima Nova" font-size="20" font-weight="normal" fill="#B3B3B3">
+                                <tspan x="30.3" y="102.6">Nov</tspan>
+                            </text>
+                            <ellipse id="Oval-3" fill="#FFFFFF" cx="78.8910891" cy="18.05" rx="3.8019802" ry="3.8"></ellipse>
+                            <ellipse id="Oval-3-Copy" fill="#FFFFFF" cx="13.3069307" cy="18.05" rx="3.8019802" ry="3.8"></ellipse>
+                            <rect id="Rectangle-12" fill="#C4C4C4" x="12.3564356" y="0" width="2.85148515" height="18.05" rx="1.42574257"></rect>
+                            <rect id="Rectangle-12" fill="#C4C4C4" x="76.990099" y="0" width="2.85148515" height="18.05" rx="1.42574257"></rect>
+                        </g>
+                        <g id="Group-9-Copy-3" filter="url(#filter-4)" transform="translate(0.000000, 27.000000)">
+                            <rect id="Rectangle-11" fill="#FFFFFF" x="0" y="3.8" width="96" height="110.2" rx="5"></rect>
+                            <rect id="Rectangle-11" fill="url(#linearGradient-2)" x="0" y="3.8" width="96" height="26.6" rx="5"></rect>
+                            <text id="09" font-family="ProximaNova-Regular, Proxima Nova" font-size="45" font-weight="normal" fill="#555555">
+                                <tspan x="21.882995" y="81.3">09</tspan>
+                            </text>
+                            <text id="Nov" font-family="ProximaNova-Regular, Proxima Nova" font-size="20" font-weight="normal" fill="#B3B3B3">
+                                <tspan x="30.3" y="102.6">Nov</tspan>
+                            </text>
+                            <ellipse id="Oval-3" fill="#FFFFFF" cx="78.8910891" cy="18.05" rx="3.8019802" ry="3.8"></ellipse>
+                            <ellipse id="Oval-3-Copy" fill="#FFFFFF" cx="13.3069307" cy="18.05" rx="3.8019802" ry="3.8"></ellipse>
+                            <rect id="Rectangle-12" fill="#C4C4C4" x="12.3564356" y="0" width="2.85148515" height="18.05" rx="1.42574257"></rect>
+                            <rect id="Rectangle-12" fill="#C4C4C4" x="76.990099" y="0" width="2.85148515" height="18.05" rx="1.42574257"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

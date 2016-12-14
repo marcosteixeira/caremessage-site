@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="280px" viewBox="0 0 1440 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 14</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="2.7084662%" x2="50%" y2="97.9910714%" id="linearGradient-1">
+            <stop stop-color="#F0FBEB" offset="0%"></stop>
+            <stop stop-color="#FEFFFD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outcomes" transform="translate(0.000000, -5100.000000)" fill="url(#linearGradient-1)">
+            <g id="Section-07" transform="translate(-74.000000, 4740.000000)">
+                <g id="Background">
+                    <polygon id="Path-14" points="4.22672366 634 1587.49297 640 1550.37688 351 1370.09874 397 1066.80729 446 764.576287 489 474.010345 492 420.987363 509 63.6124636 548"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
