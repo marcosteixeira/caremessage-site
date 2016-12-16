@@ -1,0 +1,21 @@
+//**
+// Blog
+//**
+
+.blog-link-container {
+  text-align: center;
+
+  h2 {
+    margin-top: 1.2rem;
+    font-family: $font-stack;
+    font-size: 3.8rem;
+    font-weight: inherit;
+    text-transform: inherit;
+  }
+
+  a {
+    display: block;
+    padding: 12rem 0 4rem 0;
+    text-decoration: none;
+  }
+}
