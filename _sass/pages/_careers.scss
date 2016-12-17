@@ -1,0 +1,179 @@
+//**
+// Careers
+//**
+
+.careers-values {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    height: 22.8rem;
+    width: 28.9%;
+    margin-right: 0.25rem;
+    margin-bottom: 0.25rem;
+    padding-top: 11.2rem;
+    padding-right: 3rem;
+    padding-left: 3rem;
+
+    .careers-values-number {
+      position: absolute;
+      top: 8rem;
+      left: 3rem;
+      font-size: 9.7rem;
+      font-weight: bold;
+      line-height: 1;
+    }
+
+    h3 {
+      position: relative;
+      z-index: 1;
+      margin-bottom: 0.3rem;
+      font-size: 1.1rem;
+      font-weight: bold;
+    }
+
+    p {
+      position: relative;
+      z-index: 1;
+      text-align: left;
+    }
+
+    &.yellow {
+      width: 35.25%;
+      padding-left: 9rem;
+      background: #fffefa;
+
+      .careers-values-number {
+        left: 9rem;
+        color: #faf7ee;
+      }
+    }
+
+    &.blue {
+      background: #fafeff;
+
+      .careers-values-number {
+        color: #eff6fc
+      }
+    }
+
+    &.green {
+      width: 35.25%;
+      margin-right: 0;
+      padding-right: 9rem;
+      background: #fafefc;
+
+      .careers-values-number {
+        color: #f0fbf5;
+      }
+    }
+
+    &.orange {
+      height: 20rem;
+      width: 49.85%;
+      padding-top: 9%;
+      padding-left: 12.5%;
+      text-align: center;
+      background: #fefaf4;
+
+      p {
+        text-align: center;
+      }
+
+      .careers-values-number {
+        top: 5rem;
+        left: 54%;
+        color: #fcf3e6;
+      }
+    }
+
+    &.purple {
+      height: 20rem;
+      width: 49.85%;
+      margin-right: 0;
+      padding-top: 9%;
+      padding-left: 4.1%;
+      padding-right: 17%;
+      text-align: center;
+      background: #f7f9ff;
+
+      p {
+        text-align: center;
+      }
+
+      .careers-values-number {
+        top: 5rem;
+        left: 33%;
+        color: #eff3fe;
+      }
+    }
+  }
+}
+
+.careers-heading-container {
+  margin-top: 7rem;
+  margin-bottom: 8rem;
+  padding: 0 6.7rem;
+
+  .col {
+    text-align: center;
+
+    p {
+      text-align: center;
+      line-height: 2;
+    }
+  }
+}
+
+.careers-benefits-container {
+  padding: 5rem 0 0 10rem;
+
+  h3 {
+    margin-bottom: 0;
+  }
+}
+
+.careers-benefits-list {
+  margin-top: 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    line-height: 2.8;
+  }
+}
+
+.careers-position-list {
+  list-style: none;
+  width: 83.5%;
+  padding: 0;
+  margin: 0 auto;
+
+  p {
+    text-align: left;
+  }
+
+  li {
+    h4 {
+      float: left;
+    }
+
+    .careers-job-location {
+      float: right;
+      padding: 0.2rem 1.4rem;
+      border-radius: $br;
+      color: $dark-green;
+      background: $light-green;
+    }
+
+    a {
+      text-decoration: none;
+      text-transform: uppercase;
+      color: $light-blue;
+    }
+  }
+}

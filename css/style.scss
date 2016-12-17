@@ -23,13 +23,14 @@
 @import "components/footer";
 @import "components/other";
 
-// Specific project styles, add any section specific sass modules here
+// Page-specific styles
 @import "pages/layout";
 @import "pages/home";
 @import "pages/outcomes";
 @import "pages/product";
 @import "pages/about";
 @import "pages/blog";
+@import "pages/careers";
 
 // Additional styles to think about
 @import "base/responsive";

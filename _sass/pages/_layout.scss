@@ -56,6 +56,11 @@
 .hero {
   position: relative;
   margin-bottom: 8.5em;
+
+  &.hero-nomargin {
+    margin-bottom: 0;
+    line-height: 0;
+  }
 }
 
 .hero-text {
