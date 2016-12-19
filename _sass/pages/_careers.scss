@@ -151,21 +151,26 @@
   list-style: none;
   width: 83.5%;
   padding: 0;
-  margin: 0 auto;
+  margin: 1rem auto 0 auto;
 
   p {
+    margin-bottom: 0.8rem;
     text-align: left;
   }
 
   li {
+    margin-bottom: 5.5rem;
+
     h4 {
       float: left;
+      font-size: 1.3rem;
     }
 
     .careers-job-location {
       float: right;
       padding: 0.2rem 1.4rem;
       border-radius: $br;
+      font-size: 1rem;
       color: $dark-green;
       background: $light-green;
     }
@@ -173,7 +178,12 @@
     a {
       text-decoration: none;
       text-transform: uppercase;
+      font-weight: bold;
       color: $light-blue;
+    }
+
+    &:last-child {
+      margin-bottom: 0;
     }
   }
 }
