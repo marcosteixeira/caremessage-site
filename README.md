@@ -2,20 +2,19 @@
 The CareMessage website is built using [Jekyll](http://jekyllrb.com/), a static site generator.
 
 ## Requirements
-1. Ruby. You can check if Ruby is installed with:
+Install Ruby. You can check if Ruby is already installed with:
 ```
 ruby -v
 ```
-2. Bundler. To install Bundler, run:
+Install Bundler:
 ```
 gem install bundler
 ```
-
-3. To install Jekyll and other required gems, clone this repo and run:
+Install Jekyll and other required gems. Clone this repo and run:
 ```
 bundle install
 ```
-You are ready to go!
+Now you are ready to go!
 
 ## Local Development
 * Start a local server at http://localhost:4000 with:
@@ -26,11 +25,11 @@ bundle exec jekyll serve
 * Hit Ctrl-C to stop the server when you are done.
 
 ## Deployment
-1. Build the site into the "\_site" directory:
+First build the site into the "\_site" directory:
 ```
 bundle exec jekyll build
 ```
-2. Copy the contents of the \_site directory to the server.
+Copy the contents of the \_site directory to the server.
 
 ## Notes
 * Sass partials are in "\_sass". They're imported in "css/style.scss", then
