@@ -28,7 +28,12 @@ First build the site into the "\_site" directory:
 ```
 bundle exec jekyll build
 ```
-Copy the contents of the \_site directory to the server.
+
+Using configure_s3_website and s3_website gems run:
+
+```
+bundle exec s3_website push
+```
 
 ## Notes
 * Sass partials are in "\_sass". They're imported in "css/style.scss", then
