@@ -2,7 +2,7 @@
 The CareMessage website is built using [Jekyll](http://jekyllrb.com/), a static site generator.
 
 ## Requirements
-Install Ruby. You can check if Ruby is already installed with:
+Install Ruby(2.3.1). You can check if Ruby is already installed with:
 ```
 ruby -v
 ```
