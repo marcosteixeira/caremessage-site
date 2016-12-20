@@ -6,12 +6,12 @@ The CareMessage website is built using [Jekyll](http://jekyllrb.com/), a static 
 ```
 ruby -v
 ```
-1. Bundler. To install Bundler, run:
+2. Bundler. To install Bundler, run:
 ```
 gem install bundler
 ```
 
-1. To install Jekyll and other required gems, clone this repo and run:
+3. To install Jekyll and other required gems, clone this repo and run:
 ```
 bundle install
 ```
@@ -30,7 +30,7 @@ bundle exec jekyll serve
 ```
 bundle exec jekyll build
 ```
-1. Copy the contents of the \_site directory to the server.
+2. Copy the contents of the \_site directory to the server.
 
 ## Notes
 * Sass partials are in "\_sass". They're imported in "css/style.scss", then
