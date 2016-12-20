@@ -83,11 +83,11 @@
                                     <polygon id="left_orange" fill="#FF7F40" points="4.80431176 3.9665582 3.98065098 3.08946183 3.16827323 3.95534418 3.98666859 4.82603254"></polygon>
                                 </g>
                             </g>
-                            <text id="Ethel-Herrera" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="15" font-weight="500" fill="#4A4A4A">
-                                <tspan x="29.3669065" y="157.305882">Ethel Herrera</tspan>
+                            <text id="Alma-Herrera" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="15" font-weight="500" fill="#4A4A4A">
+                                <tspan x="34.4553547" y="157.634052">Alma Herrera</tspan>
                             </text>
-                            <text id="United-State" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="10" font-weight="500" fill="#AEAEAE">
-                                <tspan x="48.5683453" y="176.023529">United State</tspan>
+                            <text id="United-States" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="10" font-weight="500" fill="#AEAEAE">
+                                <tspan x="47.6024195" y="175.76471">United States</tspan>
                             </text>
                             <g id="girl" transform="translate(44.050360, 44.047059)">
                                 <g id="Capa_1" transform="translate(0.000000, 0.000000)">
@@ -196,11 +196,11 @@
                                         <polygon id="left_orange" fill="#FF7F40" points="4.80431176 3.9665582 3.98065098 3.08946183 3.16827323 3.95534418 3.98666859 4.82603254"></polygon>
                                     </g>
                                 </g>
-                                <text id="Ethel-Herrera" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="15" font-weight="500" fill="#4A4A4A">
-                                    <tspan x="29.3669065" y="157.305882">Ethel Herrera</tspan>
+                                <text id="Ethel-Smith" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="15" font-weight="500" fill="#4A4A4A">
+                                    <tspan x="40.5097287" y="156.390725">Ethel Smith</tspan>
                                 </text>
-                                <text id="United-State" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="10" font-weight="500" fill="#AEAEAE">
-                                    <tspan x="48.5683453" y="176.023529">United State</tspan>
+                                <text id="United-States" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="10" font-weight="500" fill="#AEAEAE">
+                                    <tspan x="47.3436005" y="175.316423">United States</tspan>
                                 </text>
                             </g>
                             <g id="girl-1" transform="translate(44.050360, 42.917647)">
