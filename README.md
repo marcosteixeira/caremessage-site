@@ -17,12 +17,11 @@ bundle install
 Now you are ready to go!
 
 ## Local Development
-* Start a local server at http://localhost:4000 with:
+Start a local server at http://localhost:4000 with:
 ```
 bundle exec jekyll serve
 ```
-* The server will automatically rebuild the site whenever you make a change.
-* Hit Ctrl-C to stop the server when you are done.
+The server will automatically rebuild the site whenever you make a change. Hit Ctrl-C to stop the server when you are done.
 
 ## Deployment
 First build the site into the "\_site" directory:
