@@ -101,8 +101,9 @@ code {
   word-wrap: break-word;
 }
 
-a {
-  color: $primary-color;
+html a {
+  text-decoration: none;
+  color: $light-blue;
 
   &:hover,
   &:focus {
