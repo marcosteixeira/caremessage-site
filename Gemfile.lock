@@ -3,7 +3,21 @@ GEM
   specs:
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
+    aws-sdk (2.6.39)
+      aws-sdk-resources (= 2.6.39)
+    aws-sdk-core (2.6.39)
+      aws-sigv4 (~> 1.0)
+      jmespath (~> 1.0)
+    aws-sdk-resources (2.6.39)
+      aws-sdk-core (= 2.6.39)
+    aws-sigv4 (1.0.0)
     colorator (1.1.0)
+    colored (1.2)
+    configure-s3-website (1.7.5)
+      aws-sdk (~> 2)
+      deep_merge (~> 1.0.0)
+    deep_merge (1.0.1)
+    dotenv (1.0.2)
     ffi (1.9.14)
     forwardable-extended (2.6.0)
     jekyll (3.3.1)
@@ -23,6 +37,7 @@ GEM
       sass (~> 3.4)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
+    jmespath (1.3.1)
     kramdown (1.13.1)
     liquid (3.0.6)
     listen (3.0.8)
@@ -38,19 +53,27 @@ GEM
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
     rouge (1.11.1)
+    s3_website (2.16.0)
+      colored (= 1.2)
+      configure-s3-website (= 1.7.5)
+      dotenv (~> 1.0)
+      thor (~> 0.18)
     safe_yaml (1.0.4)
     sass (3.4.22)
+    thor (0.19.4)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  configure-s3-website
   jekyll (= 3.3.1)
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
+  s3_website
 
 RUBY VERSION
-   ruby 2.3.3p222
+   ruby 2.3.1p112
 
 BUNDLED WITH
    1.13.6
