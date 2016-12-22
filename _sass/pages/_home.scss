@@ -1,0 +1,57 @@
+//**
+// Homepage
+//**
+
+.open-rate {
+  float: right;
+  margin-right: 4rem;
+  margin-bottom: 15rem;
+
+  p {
+    margin: 0 0 2.5rem 0;
+    line-height: 1;
+    font-size: 2rem;
+    font-weight: 500;
+    color: $steel-blue;
+  }
+}
+
+.medical-letter {
+  margin: 7rem 3.9rem
+}
+
+.medical-letter-description {
+  margin-top: 4rem;
+}
+
+.open-rate-background {
+  background: no-repeat center url('/images/home/open-rate-background.svg');
+}
+
+.home-join {
+  text-align: center;
+
+  h2 {
+    margin-bottom: 3rem;
+    text-transform: uppercase;
+    font-size: 1.9rem;
+    font-weight: bold;
+    line-height: 1.7;
+  }
+
+  .home-brands {
+    margin-bottom: 2.5rem;
+  }
+}
+
+// Responsive styles if needed
+// @include responsive($big-break) {
+// }
+// @include responsive($small-break) {
+// }
+
+// Mobile first styles if needed
+// @include mobilefirst($big-break) {
+// }
+// @include mobilefirst($small-break) {
+// }

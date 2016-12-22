@@ -1,0 +1,111 @@
+//**
+// Main Layout Styles
+//**
+
+// General layout
+.container {
+  width: 1440px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.inner-container {
+  width: 79.2%; // 1140px / 1440px
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.left-pad {
+  padding-left: 1.5rem;
+}
+
+.left-pad-extra {
+  padding-left: 3rem;
+}
+
+.embed-container {
+  iframe {
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+// Row layout
+.row-heading {
+  text-align: center;
+  margin-bottom: 3rem;
+
+  h3 {
+    margin-bottom: 0;
+    text-transform: uppercase;
+    font-size: 1.95rem;
+    font-weight: bold;
+  }
+
+  p {
+    text-align: center;
+    color: $steel-blue;
+  }
+}
+
+.row-content {
+  margin-top: 0;
+}
+
+// Hero images
+.hero {
+  position: relative;
+  margin-bottom: 8.5em;
+
+  &.hero-nomargin {
+    margin-bottom: 0;
+    line-height: 0;
+  }
+}
+
+.hero-text {
+  position: absolute;
+  top: 9.5rem;
+  left: 10rem;
+  width: 33rem; // 528/1440
+  color: $white;
+
+  h2 {
+    margin-bottom: 1rem;
+    font-family: $font-stack;
+    font-size: 3.4rem;
+    font-weight: bold;
+    line-height: 1.4;
+  }
+
+  h3 {
+    font-size: 1.3rem;
+    font-weight: 200;
+    line-height: 1.8;
+    text-transform: inherit;
+  }
+
+  &.hero-text-large {
+    width: 50rem;
+
+    h2 {
+      font-size: 4.8rem;
+    }
+
+    h3 {
+      width: 33rem;
+    }
+  }
+}
+
+// Responsive styles if needed
+// @include responsive($big-break) {
+// }
+// @include responsive($small-break) {
+// }
+
+// Mobile first styles if needed
+// @include mobilefirst($big-break) {
+// }
+// @include mobilefirst($small-break) {
+// }

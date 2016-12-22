@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="710px" viewBox="0 0 1440 710" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Background</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="2.34574298%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FEFFFD" offset="0%"></stop>
+            <stop stop-color="#FEFFFD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="2.7084662%" x2="50%" y2="97.9910714%" id="linearGradient-2">
+            <stop stop-color="#F0FBEB" offset="0%"></stop>
+            <stop stop-color="#FEFFFD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Outcomes" transform="translate(0.000000, -4740.000000)">
+            <g id="Section-07" transform="translate(-74.000000, 4740.000000)">
+                <g id="Background">
+                    <rect id="Rectangle-40" fill="url(#linearGradient-1)" x="49" y="0" width="1492" height="710"></rect>
+                    <path d="M0.25,710 L62.2028385,614.036145 C62.2028385,614.036145 354.960369,585.60241 369.537508,585.60241 C384.114646,585.60241 474.007,554.503012 474.007,554.503012 L747.328346,568.71988 C747.328346,568.71988 806.851662,535.843373 814.140231,535.843373 C821.4288,535.843373 1040.08588,518.072289 1040.08588,518.072289 L1185.85726,486.972892 C1185.85726,486.972892 1368.07149,461.204819 1381.43387,461.204819 C1394.79625,461.204819 1540.56763,415 1540.56763,415" id="Path-13" stroke="#B3E59A" stroke-width="10" opacity="0.200000003"></path>
+                    <polygon id="Outcomes_wave" fill="url(#linearGradient-2)" points="4.22672366 634 1587.49297 640 1550.37688 351 1370.09874 397 1066.80729 446 764.576287 489 474.010345 492 420.987363 509 63.6124636 548"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

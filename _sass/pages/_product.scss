@@ -1,0 +1,98 @@
+//**
+// Product
+//**
+
+.product-integration {
+  p {
+    margin: 0.7rem 0 3.5rem 0;
+    color: $font-color;
+  }
+}
+
+.product-steps {
+  list-style: none;
+  padding: 0;
+
+  li {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    height: 42.2rem;
+    width: 49.5%;
+    padding-top: 6.5rem;
+
+    .product-steps-number {
+      position: absolute;
+      top: 2.1rem;
+      left: 1.5rem;
+      font-size: 11.5rem;
+      font-weight: bold;
+      line-height: 1;
+    }
+
+    h3 {
+      position: relative;
+      z-index: 1;
+      font-weight: 600;
+    }
+
+    p {
+      position: relative;
+      z-index: 1;
+    }
+
+    img {
+      display: block;
+      margin: 2.5rem auto;
+
+      &.img-product-engage {
+        margin-top: -2.9rem;
+      }
+    }
+
+    &:nth-child(odd) {
+      margin-right: 0.25rem;
+      margin-left: 0.25rem;
+      padding-right: 1rem;
+      padding-left: 10rem;
+
+      .product-steps-number {
+        left: 9.5rem;
+      }
+    }
+
+    &:nth-child(even) {
+      padding-right: 10rem;
+      padding-left: 2rem;
+    }
+
+    &.green {
+      background: #fafefc;
+
+      .product-steps-number {
+        color: #f0fbf5;
+      }
+    }
+    &.blue {
+      background: #fafeff;
+
+      .product-steps-number {
+        color: #eff6fc
+      }
+    }
+    &.purple {
+      background: #f7f9ff;
+
+      .product-steps-number {
+        color: #eff3fe;
+      }
+    }
+    &.yellow {
+      background: #fefaf4;
+
+      .product-steps-number {
+        color: #fcf3e6;
+      }
+    }
+  }
+}

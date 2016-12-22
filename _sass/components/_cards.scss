@@ -1,0 +1,39 @@
+//**
+// Cards
+//**
+
+.card {
+  border-radius: 6px;
+  box-shadow: 0px 5px 20px 3px #e6e6e6;
+
+  @include clearfix;
+}
+
+.card-img-left {
+  float: left;
+  margin-right: 2rem;
+}
+
+.card-img-right {
+  float: right;
+  margin-left: 2rem;
+}
+
+.card-quote-marks {
+  float: right;
+  margin: 0 0 4rem 40%;
+}
+
+.card-content {
+  margin: 2rem 2.75rem;
+}
+
+.card-quote {
+  margin-bottom: 1.5rem;
+  font-size: 0.78rem;
+}
+
+.card-attribution {
+  font-weight: 600;
+  font-size: 0.78rem;
+}

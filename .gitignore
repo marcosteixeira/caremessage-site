@@ -1,23 +1,6 @@
 .DS_Store
+_site
+.sass-cache
+.jekyll-metadata
 s3_website.yml
-*.gem
-*.rbc
-.bundle
-.config
-coverage
-InstalledFiles
-lib/bundler/man
-pkg
-rdoc
-spec/reports
-test/tmp
-test/version_tmp
 tmp
-public/output
-crash.log
-output/
-
-# YARD artifacts
-.yardoc
-_yardoc
-doc/

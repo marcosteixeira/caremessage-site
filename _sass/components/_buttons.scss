@@ -1,0 +1,38 @@
+//**
+// Buttons
+//**
+
+// Default button
+.button {
+  padding: 10px 20px;
+  border-radius: $br;
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: bold;
+  color: $white;
+  background: $turquoise;
+
+  &:hover,
+  &:focus {
+    color: $font-color;
+    background: $light-turquoise;
+  }
+}
+
+
+// Responsive styles if needed
+// @include responsive($big-break) {
+// }
+// @include responsive($small-break) {
+//   .btn {
+//     display: block;
+//     margin-bottom: 10px;
+//     width: 100%;
+//   }
+// }
+
+// Mobile first styles if needed
+// @include mobilefirst($big-break) {
+// }
+// @include mobilefirst($small-break) {
+// }
