@@ -116,7 +116,7 @@
 
 .careers-heading-container {
   margin-top: 7rem;
-  margin-bottom: 8rem;
+  margin-bottom: 2rem;
   padding: 0 6.7rem;
 
   .col {
@@ -144,6 +144,38 @@
 
   li {
     line-height: 2.8;
+  }
+}
+
+.careers-instagram-container {
+  margin: 0 0 9rem 0;
+}
+
+.careers-instagram-inner-container {
+  .card {
+    width: 320px;
+    margin: 1rem;
+
+    figure {
+      margin: 0;
+    }
+
+    img {
+
+    }
+
+    figcaption {
+      margin: 0.5rem;
+      line-height: 1.5;
+    }
+  }
+}
+
+.slick-dots {
+  bottom: -2.8rem;
+
+  li button:before {
+    font-size: 0.7rem;
   }
 }
 
